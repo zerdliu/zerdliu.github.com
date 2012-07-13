@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zerdliu
+title: ":Zerdliu => blogging"
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
